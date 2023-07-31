@@ -1,0 +1,20 @@
+ Prueba Sistema de Votacíon
+
+Este proyecto es una ejecucion  de un formulario paea un  sistema de votación 
+
+Instrucciones de Instalación:
+1. Clona o descarga el repositorio desde https://github.com/paninapani/prueba_sisVotacion.git
+2. Copia los archivos en tu servidor web local o remoto.
+3. Crea una base de datos MySQL llamada "prueba" y ejecuta el archivo "prueba.sql" para importar la estructura de la base de datos.
+4. No te olvides de las credenciales de conexión desde el proyecto para la base de datos, en este caso se utilizaron estos datos:
+ servername = "localhost"; // Dirección del servidor MySQL
+    username = "root"; // Nombre de usuario de MySQL
+    password = ""; // Contraseña de MySQL
+    dbname = "prueba"; // Nombre de la base de datos
+Si no cuentas con las mismas credenciales, debes modificar el archivo conexion.php , funcion conectar que es la encargada de realizar la conexion a la bd.
+
+Versiones utilizados en el proyecto:
+
+-Versión de MySQL: 10.4.28-MariaDB
+-Versión de PHP: 8.2.4
+
