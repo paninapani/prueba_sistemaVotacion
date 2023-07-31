@@ -1,8 +1,8 @@
-# prueba_sisVotacion
+# prueba_sistemaVotacion
 
-Prueba Sistema de Votacíon
+Prueba Sistema de Votación
 
-Este proyecto es una ejecucion  de un formulario paea un  sistema de votación 
+Este proyecto es una ejecución  de un formulario para un sistema de votación 
 
 Instrucciones de Instalación:
 1. Clona o descarga el repositorio desde (https://github.com/paninapani/prueba_sisVotacion.git)
