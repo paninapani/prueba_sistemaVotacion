@@ -3,7 +3,7 @@ Prueba Sistema de Votación
 Este proyecto es una ejecución  de un formulario para un sistema de votación 
 
 Instrucciones de Instalación:
-1. Clona o descarga el repositorio desde (https://github.com/paninapani/prueba_sisVotacion.git)
+1. Clona o descarga el repositorio desde (https://github.com/paninapani/prueba_sistemaVotacion.git)
 2. Copia los archivos en tu servidor web local o remoto.
 3. Crea una base de datos MySQL llamada "prueba" y ejecuta el archivo "prueba.sql" para importar la estructura de la base de datos.
 4. No te olvides de las credenciales de conexión desde el proyecto para la base de datos, en este caso se utilizaron estos datos:
